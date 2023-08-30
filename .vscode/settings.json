@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "gaurav rai",
+            "password": "gaurav rai",
+            "database": "my sql",
+            "username": "grai6129"
+        }
+    ]
+}
